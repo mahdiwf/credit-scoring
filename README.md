@@ -7,6 +7,7 @@ Dashboard: When the user login, this is the first screen she/he will have. There
 1) AI Identity Scoring: Based on the Document Verification, Location & Movement Analysis, and Digital Footprint
 2) AI Character Scoring: Based on the Character Analysis, Digital Footprint, and Credit Need & Purpose
 3) AI Capability Scoring: Based on the Legal & Permit Analysis, Constraint Analysis, Condition Analysis, Collateral & Guarantee, Capital Strength Analysis, and Capacity & Earning Power
+4) AI Credit Scoring: All the above combined.
    
 ![image](https://github.com/mahdiwf/credit-scoring/assets/163992115/52ebc5a1-8564-48ef-9f4f-01f438615439)
 
