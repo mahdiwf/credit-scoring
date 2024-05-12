@@ -17,13 +17,13 @@ Dashboard (continued..)
 Permintaan (Request): The user will access menu here to request for new scoring.
 ![image](https://github.com/mahdiwf/credit-scoring/assets/163992115/9b59c1d6-edd0-4d89-969b-fbcbfce27a2a)
 
-Result
+Hasil (Result): Displaying the result of the scoring request
 ![image](https://github.com/mahdiwf/credit-scoring/assets/163992115/c463cb50-9ca2-49b3-873a-dc1cac999670)
 
-Reporting:
+Reporting
 ![image](https://github.com/mahdiwf/credit-scoring/assets/163992115/6ef61e0f-7ffe-4030-a8e4-c98f9475caea)
 
-Reporting:
+Reporting (continued..)
 ![image](https://github.com/mahdiwf/credit-scoring/assets/163992115/7816bc71-0a8c-4091-9b74-2cbbe808eb8a)
 
 Quota Allocation History:
