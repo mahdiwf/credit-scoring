@@ -1,8 +1,7 @@
 # credit-scoring
 AI-based credit scoring web application.<br>
-This project was a full-time paid internship where I was one of the backend and API developers. I developed a TypeScript program to transform images and Excel data as input to an AI model. <br>
-I will not allowed to share the codes. I will only share some sample outputs.<br>
-
+This project was a full-time paid internship where I was one of the backend and API developers. I developed a TypeScript program to transform images and Excel data as input to an AI model. I will not allowed to share the codes. I will only share some sample outputs.<br>
+Skills: TypeScript, MongoDB, and PostgreSQL.
 I think the dashboard is very user-friendly. When the user logs in, this is the first screen she will have. From this screen, the user will select any functionality she wants to perform.<be>
 There are four features scoring.
 * AI Identity Scoring: Based on the Document Verification, Location & Movement Analysis, and Digital Footprint
