@@ -6,7 +6,7 @@ There are four features scoring.
 * AI Identity Scoring: Based on the Document Verification, Location & Movement Analysis, and Digital Footprint
 * AI Character Scoring: Based on the Character Analysis, Digital Footprint, and Credit Need & Purpose
 * AI Capability Scoring: Based on the Legal & Permit Analysis, Constraint Analysis, Condition Analysis, Collateral & Guarantee, Capital Strength Analysis, and Capacity & Earning Power
-* AI Credit Scoring: This functionality combines all the above scorings.
+* AI Credit Scoring: This functionality combines all the above scorings.<br>
    
 ![image](https://github.com/mahdiwf/credit-scoring/assets/163992115/52ebc5a1-8564-48ef-9f4f-01f438615439)
 
