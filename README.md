@@ -3,7 +3,7 @@ AI-based credit scoring web application.<br>Skills: TypeScript, MongoDB, and Pos
 
 This project was a full-time paid internship where I was one of the backend and API developers. I developed a TypeScript program to transform images and Excel data as input to an AI model. I will not allowed to share the codes. I will only share some sample outputs.<br>
 
-I think the dashboard is very user-friendly. When the user logs in, this is the first screen she will have. From this screen, the user will select any functionality she wants to perform.<be>
+Below is the main dashboard. When the user logs in, this is the first screen she will have. From this screen, the user will select any functionality she wants to perform.<be>
 There are four features scoring.
 * AI Identity Scoring: Based on the Document Verification, Location & Movement Analysis, and Digital Footprint
 * AI Character Scoring: Based on the Character Analysis, Digital Footprint, and Credit Need & Purpose
