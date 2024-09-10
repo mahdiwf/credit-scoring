@@ -1,7 +1,7 @@
 # credit-scoring
 AI-based credit scoring web application.<br>Skills: TypeScript, MongoDB, and PostgreSQL.<br>
 
-This project was a full-time paid internship where I was one of the backend and API developers. I developed a TypeScript program to transform images and Excel data as input to an AI model. I will not allowed to share the codes. I will only share some sample outputs.<br>
+This project was a full-time paid internship where I was one of the backend and API developers. I developed a TypeScript program to transform images and Excel data as input to an AI model. I will not allowed to share the codes. I will only share some screenshots/outputs.<br>
 
 Below is the main dashboard. When the user logs in, this is the first screen she will have. From this screen, the user will select any functionality she wants to perform.<be>
 There are four features scoring.
@@ -9,6 +9,11 @@ There are four features scoring.
 * AI Character Scoring: Based on the Character Analysis, Digital Footprint, and Credit Need & Purpose
 * AI Capability Scoring: Based on the Legal & Permit Analysis, Constraint Analysis, Condition Analysis, Collateral & Guarantee, Capital Strength Analysis, and Capacity & Earning Power
 * AI Credit Scoring: This functionality combines all the above scorings.<br>
+To support these functionalities, they are several features available such as:
+* AI Automation: Automation based on findings or criteria.
+* AI Document Verification: Conducting comprehensive documents verification.
+* AI Location & Movement: Analysing/tracking the movement and location history of the customer.
+* AI Capacity & Earning Power: Measuring the capacity/earning of the customer.
    
 ![image](https://github.com/mahdiwf/credit-scoring/assets/163992115/52ebc5a1-8564-48ef-9f4f-01f438615439)
 
