@@ -16,6 +16,8 @@ To support these functionalities, they are several features available such as:
 * AI Capacity & Earning Power: Measuring the capacity/earning of the customer.
    
 ![image](https://github.com/mahdiwf/credit-scoring/assets/163992115/52ebc5a1-8564-48ef-9f4f-01f438615439)
+![image](https://github.com/user-attachments/assets/abf8f8b9-3766-4b8c-9d78-cec6fed3d55c)
+
 
 Dashboard (continued..)
 ![image](https://github.com/mahdiwf/credit-scoring/assets/163992115/86f99ae1-a8a4-49ed-a760-74cbc7c78171)
