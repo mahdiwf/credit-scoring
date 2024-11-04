@@ -1,7 +1,11 @@
 # credit-scoring
 AI-based credit scoring web application.<br>Skills: TypeScript, MongoDB, and PostgreSQL.<br>
 
-This project was a full-time paid internship where I was one of the backend and API developers. I developed a TypeScript program to transform images and Excel data as input to an AI model. I will not allowed to share the codes. I will only share some screenshots/outputs.<br>
+This project was a full-time paid internship where I was one of the backend and API developers. <br>
+* I used Node.js and Express.js to integrate back-end servers into front-end and AI applications
+* I developed a TypeScript program to transform images and Excel data as input to an AI model.
+
+The codes are not shareable. However, there are some screenshots/outputs to vizualize this web application.<br>
 
 Below is the main dashboard. When the user logs in, this is the first screen she will have. From this screen, the user will select any functionality she wants to perform.<be>
 There are four features scoring.
